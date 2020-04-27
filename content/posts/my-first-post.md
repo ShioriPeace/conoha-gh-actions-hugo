@@ -1,6 +1,6 @@
 ---
-title: "conoha-gh-actions-hugo"
-date: 2020-05-24T02:00:04+09:00
+title: "conoha-gh-actions-hugo-test"
+date: 2020-05-23T02:00:04+09:00
 draft: false
 ---
 
