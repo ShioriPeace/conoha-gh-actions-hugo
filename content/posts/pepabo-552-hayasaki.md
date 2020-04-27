@@ -1,7 +1,7 @@
 ---
 title: "Pepabo 552 Hayasaki"
 date: 2020-04-28T06:14:37+09:00
-draft: true
+draft: false
 ---
 
 ## 自己紹介
